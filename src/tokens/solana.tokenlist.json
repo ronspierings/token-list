@@ -33853,22 +33853,19 @@
         "website": "https://www.dzungaria.xyz/"
       }
     },
-    {
+	    {
       "chainId": 101,
-      "address": "UNQtEecZ5Zb4gSSVHCAWUQEoNnSVEbWiKCi1v9kdUJJ",
-      "symbol": "UNQ",
-      "name": "UNQ",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/UNQtEecZ5Zb4gSSVHCAWUQEoNnSVEbWiKCi1v9kdUJJ/logo.png",
+      "address": "H4c5wjB2Y43yg2NWCWcf5XCK5nzVyS65U2ai3EqtqK3o",
+      "symbol": "RON",
+      "name": "Ron Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H4c5wjB2Y43yg2NWCWcf5XCK5nzVyS65U2ai3EqtqK3o/logo.png",
       "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-        "discord": "https://discord.com/invite/unqnetwork",
-        "twitter": "https://twitter.com/clubunq",
-        "website": "https://unq.club/"
-      }
-    }
+        "education-token",
+        "personal-token",
+        "meme-token"
+      ]
+    },
   ],
   "version": {
     "major": 0,
